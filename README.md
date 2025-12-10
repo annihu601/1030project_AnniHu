@@ -1,9 +1,9 @@
-## ------Project Title--------
+## Project Title
  Forcasting WeeklySales for Walmart Stores.
- ## ------Description----------
+ ## Description
  Predict the weekly sales for each store and department at Walmart using historical and external data.
 
-## -------Dependencies---------
+## Dependencies
 # Python Version: 3.12.10
 # Packages Version:
 - matplotlib: 3.10.1
@@ -13,10 +13,10 @@
 - seaborn: 0.13.2
 - shap: 0.47.2
 
-## --------Author ---------
+## Author
 Name: Anni Hu
 Contact info: anni_hu@brown.edu
 
-## -------License ---------
+## License
 This project is licensed under the Anni HU License- See the License.md for more details. 
 
