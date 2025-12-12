@@ -4,8 +4,8 @@
  Predict the weekly sales for each store and department at Walmart using historical and external data.
 
 ## Dependencies
-# Python Version: 3.12.10
-# Packages Version:
+## Python Version: 3.12.10
+## Packages Version:
 - matplotlib: 3.10.1
 - numpy: 2.2.5
 - pandas: 2.2.3
